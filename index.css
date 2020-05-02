@@ -15,8 +15,17 @@ a {
   text-decoration: none;
 }
 
+#profile-photo {
+  height: 300px;
+  width: 300px;
+}
+
 .custom-underline {
   border-bottom: 1px solid;
   display: inline-block;
   line-height: 0.75;
+}
+
+.bold {
+  font-weight: 300;
 }
